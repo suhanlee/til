@@ -17,8 +17,9 @@
 ### Coinbase
 ### Genesis Block
 ### Consensus Algorithm
-#### POW
-#### POS
+#### PoW
+#### PoS
+#### DPoS
 #### LFT(Loop Fault Tolerance)
 ### TxID
 ### ICO
