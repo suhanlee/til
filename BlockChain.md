@@ -1,5 +1,8 @@
 ## Common Terms
 ### BlockChain
+### Mining
+### Block
+### GenesisBlock
 ### OnChain
 ### OffChain
 ### SideChain
@@ -14,3 +17,8 @@
 ### POS
 ### TxID
 ### ICO
+### SmartContract
+### DApp
+### ERC20/Token
+### Solidity
+### Geth
