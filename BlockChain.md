@@ -16,8 +16,10 @@
 ### TestNet
 ### Coinbase
 ### Genesis Block
-### POW
-### POS
+### Consensus Algorithm
+#### POW
+#### POS
+#### LFT(Loop Fault Tolerance)
 ### TxID
 ### ICO
 ### SmartContract
