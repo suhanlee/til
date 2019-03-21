@@ -4,6 +4,7 @@
 - https://docs.aws.amazon.com/cli/latest/reference/s3/index.html
 - https://docs.aws.amazon.com/ko_kr/codebuild/latest/userguide/build-env-ref-env-vars.html
 - https://gist.github.com/sardemff7/8770751
+- https://gist.github.com/caspyin/2288960
 
 ```
 # make PR on github
