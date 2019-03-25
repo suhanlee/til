@@ -29,3 +29,13 @@ $ [ 5 -lt 3 ]
 $ echo $?
 1
 ```
+
+#### if
+```
+#!/bin/sh
+
+if [ `whoami` = "root" ] 
+then
+  echo "super user"
+fi
+```
