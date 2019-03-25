@@ -18,7 +18,14 @@ $ echo $?
 ```
 #### test
 ```
-test 5 -lt 3
-echo $?
+$ test 5 -lt 3
+$ echo $?
+1
+```
+
+#### test []
+```
+$ [ 5 -lt 3 ]
+$ echo $?
 1
 ```
