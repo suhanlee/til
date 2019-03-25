@@ -1,6 +1,13 @@
 # ShellScript
 
 
+#### expr
+```
+$ NUMBER=5
+$ expr $NUMBER * 5
+10
+```
+
 #### Return code
 - Retrun value 0 is success, otehr is fail
 ```
