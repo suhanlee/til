@@ -29,6 +29,12 @@ $ \curl -sSL https://get.rvm.io | bash -s stable
 ### Android Studio
 - https://developer.android.com/studio
 
+### Cocoa pods
+- https://cocoapods.org/
+```
+$ sudo gem install cocoapods
+```
+
 ### Reactotron
 - https://github.com/infinitered/reactotron/releases
 
