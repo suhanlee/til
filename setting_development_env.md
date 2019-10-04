@@ -15,6 +15,10 @@ $ brew install gpg2
 ```
 $ brew install yarn
 ```
+### Install n(Node version Manager)
+```
+$ brew install n
+```
 ### RVM(Ruby Version Manager)
 - http://rvm.io/
 ```
