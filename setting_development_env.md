@@ -11,6 +11,10 @@ $ /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/inst
 ```
 $ brew install gpg2
 ```
+### Install Yarn
+```
+$ brew install yarn
+```
 ### RVM(Ruby Version Manager)
 - http://rvm.io/
 ```
