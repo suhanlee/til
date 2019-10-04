@@ -1,3 +1,6 @@
+### Install XCode
+- On App Store
+
 ### HomeBrew
 - https://brew.sh/
 ```
