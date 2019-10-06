@@ -7,6 +7,13 @@ $ yarn add react-native-config
 ```
 $ react-native link react-native-config
 ```
+
+#### (iOS) Build configuration
+- To apply env files, edit build scheme on build(pre-action)
+```
+if [ "${ENVFILE}" ]; then echo "${ENVFILE}" > /tmp/envfile; else echo ".env.prd" > /tmp/envfile; fi
+"${SRCROOT}/../node_modules/react-native-config/ios/ReactNativeConfig/BuildXCConfig.rb" "${SRCROOT}/.." "${SRCROOT}/tmp.xcconfig"
+```
 #### TroubleShooting
 
 ##### If ReactNativeConfig.h file not found
