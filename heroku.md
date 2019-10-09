@@ -18,6 +18,11 @@ Logged in as suhan.lee.k@gmail.com
 $ git remote add heroku [HEROKU_GIT_URL]
 ```
 
+#### Check git remote url
+```
+$ git remote -v
+```
+
 #### Deploy heroku using git hook
 ```
 $ git push heroku master
